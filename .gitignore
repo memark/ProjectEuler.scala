@@ -1,9 +1,10 @@
 *.class
 *.log
 
+# Mina egna
+bin/*
+
 # Eclipse
-.classpath
-.project
 .cache
 .settings
 .worksheet
