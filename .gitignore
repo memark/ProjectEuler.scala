@@ -1,6 +1,13 @@
 *.class
 *.log
 
+# Eclipse
+.classpath
+.project
+.cache
+.settings
+.worksheet
+
 # sbt specific
 dist/*
 target/
